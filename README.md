@@ -1,9 +1,9 @@
 # 【Side Project】website
 
-vue 3、vite
+利用 vue 練習做出一個網頁
 
 ## Update
 - 2022 / 03 / 19
   - create a new project
 - 2022 / 03 / 20
-  - setting home page
+  - setting home page & about page
