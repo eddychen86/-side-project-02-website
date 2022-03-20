@@ -1,0 +1,85 @@
+<template>
+  <header>
+    <div class="banner">
+      <div class="container text-center">
+        <h1>{{ title }}<span>{{ subtitle }}</span></h1>
+        <div class="photo-box">
+          <div class="wrapper">
+            <div id="cover" class="center">
+              <div class="slick-slide"><img src="../assets/index-01.jpg"></div>
+              <div class="slick-slide"><img src="../assets/index-02.jpg"></div>
+              <div class="slick-slide"><img src="../assets/index-03.jpg"></div>
+              <div class="slick-slide"><img src="../assets/index-04.jpg"></div>
+              <div class="slick-slide"><img src="../assets/index-05.jpg"></div>
+            </div>
+          </div>
+        </div>
+        <router-link to="/product/info" class="btn btn-outline-light border rounded-pill">ENTER</router-link>
+      </div>
+    </div>
+  </header>
+</template>
+
+<script setup>
+const title = "Welcome to Photo";
+const subtitle = "NFT";
+
+$(document).ready(() => {
+  $('.center').slick({
+    centerMode: true,
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 5000,
+  });
+});
+</script>
+
+<style scoped>
+header {  
+  height: 100%;
+  padding: auto;
+  color: #fff;
+}
+.banner {
+  height: 50vh;
+  background-color: rgba(0,0,0, 0.5);
+  backdrop-filter: blur(10px);
+  transform: translateY(40%);
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  overflow: hidden;
+}
+h1 {
+  font-size: 5rem;
+}
+span {
+  -webkit-text-stroke: 8px;
+}
+
+.photo-box {
+  height: 25vh;
+  overflow: hidden;
+  margin: 30px 10px;
+}
+.wrapper {
+  width: 100%;
+  height: 100%;
+  text-align:center;
+}
+.carousel {
+  width: 100%;
+  margin: 0px auto;
+}
+.slick-slide {
+  margin: 10px; /* 圖片與圖片的間隔大小 */
+}
+.slick-slide img {
+  width: 100%;
+}
+
+.btn {
+  letter-spacing: 2px;
+}
+
+</style>
