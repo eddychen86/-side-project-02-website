@@ -1,9 +1,12 @@
 <template>
   <header>
-    <div class="banner">
+    <div class="banner overflow-hidden">
       <div class="container">
-        <h1 class="mb-5">{{ title }}</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex obcaecati omnis dolorem eum dolorum dolor necessitatibus laboriosam voluptatum at exercitationem sit officiis, laborum facere ab consequuntur quo accusantium illum beatae aliquam ut quam amet. Voluptatem ratione nobis ea nemo a maiores quasi eum fugit earum. Voluptatem id similique dolore quisquam distinctio! Sint veniam molestiae ipsam labore eum minima voluptatem minus, ab reiciendis alias consequuntur delectus praesentium possimus dolor libero nemo sapiente dolorum culpa ipsum, debitis sed corrupti consectetur ex? Nemo aperiam, placeat modi facilis voluptate rem omnis soluta labore debitis consequatur distinctio dolores perspiciatis beatae nulla possimus hic obcaecati laboriosam veritatis sapiente quam officia nostrum. Vero suscipit quasi quam optio eveniet quidem dolores qui autem sint, iste, at modi magnam, possimus laudantium necessitatibus deleniti eius! Qui illum totam ipsa provident nostrum delectus adipisci, ab necessitatibus enim magni dicta consectetur alias, magnam vero laborum. Aliquam at culpa consequuntur? Quod doloribus alias quibusdam quia doloremque nobis, officiis sapiente. Blanditiis modi natus asperiores, eum harum in autem corrupti ad nesciunt, fugit corporis, reprehenderit aut cum. Quidem beatae placeat nulla nisi, inventore nostrum aut commodi impedit explicabo atque, est fugit corporis asperiores officia ducimus unde optio dicta? Odit magni aliquam delectus amet veritatis quisquam, nobis odio sunt aperiam tenetur molestiae, tempore qui consectetur. Culpa cupiditate provident ut. Maiores, atque. Voluptatibus minus nulla, esse iure ratione deserunt fugiat dignissimos eaque! Quos tenetur ea voluptates doloremque alias magni magnam porro, quaerat nobis? Illum possimus iure laudantium earum modi amet facilis nam exercitationem at nemo! Neque suscipit repellendus a cupiditate ratione reiciendis amet cum excepturi consequatur qui, nemo nulla, nesciunt hic at veniam rerum? Iusto modi nesciunt ratione ducimus sint voluptatibus magnam perferendis! Illum quaerat ex repudiandae voluptate sapiente ipsum, explicabo tenetur assumenda quidem sint quae quasi dolor sit nulla vel praesentium quisquam magnam, eum, asperiores ipsa.</p>
+        <h1 class="mb-5 text-center">{{ title }}</h1>
+        <div class="row">
+          <div class="img col-lg-3 col-sm-12"></div>
+          <p class="col-lg-9 col-sm-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab ducimus inventore quis, molestiae quo, autem accusantium iure, provident dolor aliquam enim at dolores cumque. Reprehenderit, repellendus sed aliquam nihil sit laudantium voluptatem rem saepe nam. Incidunt neque enim exercitationem at tempore adipisci officia amet repellat voluptatum? Tempore soluta mollitia rerum! Aperiam distinctio ratione totam voluptate, esse quibusdam earum at numquam cupiditate culpa quae commodi quo architecto eius enim porro. Alias magnam aspernatur voluptatem tempora hic minima quis facilis ullam non eos nulla voluptates itaque soluta ex in dignissimos nostrum illum, harum cumque? Placeat explicabo nulla aperiam in pariatur unde impedit doloremque quibusdam, nesciunt necessitatibus et consectetur dolore alias iste provident, sapiente blanditiis quae, obcaecati repudiandae. Expedita cupiditate eum voluptates sint mollitia. Impedit officia eveniet similique numquam modi ab delectus aliquid, assumenda vitae eligendi consectetur quod alias fuga accusamus nobis recusandae doloremque ad labore iure, et saepe architecto asperiores aperiam provident. Quis eius debitis nemo recusandae exercitationem rerum assumenda. Reprehenderit, magnam! Quibusdam voluptatibus veritatis consequatur consectetur unde. Molestias natus rem sed, nostrum, impedit ad eaque harum nemo autem eum rerum accusamus perspiciatis quos. Repudiandae voluptate corrupti iure consectetur cumque rem soluta aliquid aliquam repellat dolorum aperiam placeat doloribus vitae, sequi quisquam.</p>
+        </div>
       </div>
     </div>
   </header>
@@ -38,5 +41,11 @@ header {
 h1 {
   font-size: 4rem;
   font-weight: 900;
+}
+.img {
+  background-image: url('https://picsum.photos/id/221/450/800?grayscale');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70%;
 }
 </style>

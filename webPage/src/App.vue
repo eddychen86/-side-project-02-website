@@ -79,6 +79,7 @@
           <hr>
           <textarea cols="40" rows="3" class="p-2 overflow-auto"></textarea>
         </div>
+        <p class="col-12 text-center">© 2022 by Eddy Chen</p>
       </div>
     </div>
   </footer>
@@ -123,8 +124,7 @@ a {
 footer {
   color: #fff;
   height: auto;
-  /* position: fixed;
-  bottom: 0; */
+  margin-top: -3vh;
   width: 100%;
   background: rgb(32, 32, 32);
 }
