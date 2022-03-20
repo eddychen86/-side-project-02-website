@@ -6,4 +6,6 @@
 - 2022 / 03 / 19
   - create a new project
 - 2022 / 03 / 20
-  - setting home page & about page
+  - setting home page, about page, declare page
+- 2022 / 03 / 21
+  - setting product page
