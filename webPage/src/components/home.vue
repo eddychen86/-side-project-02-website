@@ -3,17 +3,19 @@
     <div class="banner">
       <div class="container text-center">
         <h1>{{ title }}<span>{{ subtitle }}</span></h1>
-        <div class="photo-box">
-          <div class="wrapper">
-            <div id="cover" class="center">
-              <div class="slick-slide"><img src="../assets/index-01.jpg"></div>
-              <div class="slick-slide"><img src="../assets/index-02.jpg"></div>
-              <div class="slick-slide"><img src="../assets/index-03.jpg"></div>
-              <div class="slick-slide"><img src="../assets/index-04.jpg"></div>
-              <div class="slick-slide"><img src="../assets/index-05.jpg"></div>
-            </div>
+      </div>
+      <div class="photo-box">
+        <div class="wrapper">
+          <div id="cover" class="center">
+            <div class="slick-slide"><img src="../assets/index-01.jpg"></div>
+            <div class="slick-slide"><img src="../assets/index-02.jpg"></div>
+            <div class="slick-slide"><img src="../assets/index-03.jpg"></div>
+            <div class="slick-slide"><img src="../assets/index-04.jpg"></div>
+            <div class="slick-slide"><img src="../assets/index-05.jpg"></div>
           </div>
         </div>
+      </div>
+      <div>
         <router-link to="/product/info" class="btn btn-outline-light border rounded-pill">ENTER</router-link>
       </div>
     </div>
@@ -24,10 +26,15 @@
 const title = "Welcome to Photo";
 const subtitle = "NFT";
 
+// defineProps ({
+//   title: String,
+//   subtitle: String
+// });
+
 $(document).ready(() => {
   $('.center').slick({
     centerMode: true,
-    slidesToShow: 2,
+    slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 5000,
@@ -58,6 +65,7 @@ span {
 }
 
 .photo-box {
+  /* border: 1px solid #fff; */
   height: 25vh;
   overflow: hidden;
   margin: 30px 10px;
@@ -79,6 +87,8 @@ span {
 }
 
 .btn {
+  left: 50%;
+  transform: translateX(-50%);
   letter-spacing: 2px;
 }
 

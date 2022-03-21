@@ -94,6 +94,7 @@
 * {
   box-sizing: border-box;
   position: relative;
+  text-align: justify;
 }
 html, body {
   padding: 0;
@@ -119,6 +120,11 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 0;
+}
+.row {
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
 footer {
