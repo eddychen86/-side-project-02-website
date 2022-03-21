@@ -1,5 +1,5 @@
 <template>
-  <header class="overflow-auto">
+  <header>
     <div class="banner">
       <div class="container">
         <h1 class="text-center">{{ title }}</h1>
@@ -132,20 +132,12 @@
 </template>
 
 <script setup>
-// import { ref } from 'vue'
-
-// defineProps({
-//   msg: String
-// })
-
-// const count = ref(0)
 const title = "產品介紹";
 const product = "產品";
 </script>
 
 <style scoped>
-header {  
-  height: 100%;
+header {
   padding: auto;
   color: #fff;
   background-color: rgba(0,0,0, 0.5);

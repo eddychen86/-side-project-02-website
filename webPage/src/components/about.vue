@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="banner overflow-hidden">
+    <div class="banner">
       <div class="container">
         <h1 class="mb-5 text-center">{{ title }}</h1>
         <div class="row">
@@ -13,30 +13,21 @@
 </template>
 
 <script setup>
-// import { ref } from 'vue'
-
-// defineProps({
-//   msg: String
-// })
-
-// const count = ref(0)
 const title = "公司介紹";
 </script>
 
 <style scoped>
-header {  
+header {
   height: 100%;
   padding: auto;
   color: #fff;
 }
 .banner {
-  height: 50vh;
   background-color: rgba(0,0,0, 0.5);
   backdrop-filter: blur(10px);
   transform: translateY(40%);
   padding-top: 5vh;
   padding-bottom: 5vh;
-  overflow: hidden;
 }
 h1 {
   font-size: 4rem;

@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <router-link to="/home" class="navbar-brand">Photo<span>NFT</span></router-link>
+      <router-link to="/" class="navbar-brand">Photo<span>NFT</span></router-link>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -86,8 +86,6 @@
 </template>
 
 <script setup>
-// import HelloWorld from './components/HelloWorld.vue'
-// import HomeView from './components/HomeView.vue';
 </script>
 
 <style>

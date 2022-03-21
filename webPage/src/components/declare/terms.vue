@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="banner overflow-hidden">
+    <div class="banner">
       <div class="container">
         <h1 class="text-center">{{ title }}</h1>
         <hr class="my-5">
@@ -11,39 +11,23 @@
 </template>
 
 <script setup>
-// import { ref } from 'vue'
-
-// defineProps({
-//   msg: String
-// })
-
-// const count = ref(0)
 const title = "服務條款";
 </script>
 
 <style scoped>
 header {  
   height: 100%;
-  padding: auto;
   color: #fff;
 }
 .banner {
-  height: 50vh;
   background-color: rgba(0,0,0, 0.5);
   backdrop-filter: blur(10px);
   transform: translateY(40%);
   padding-top: 5vh;
   padding-bottom: 5vh;
-  overflow: hidden;
 }
 h1 {
   font-size: 4rem;
   font-weight: 900;
-}
-.img {
-  background-image: url('https://picsum.photos/id/221/450/800?grayscale');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 70%;
 }
 </style>

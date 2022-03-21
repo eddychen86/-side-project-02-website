@@ -1,8 +1,8 @@
 <template>
   <header>
     <div class="banner">
-      <div class="container text-center">
-        <h1>{{ title }}<span>{{ subtitle }}</span></h1>
+      <div class="container">
+        <h1 class="text-center">{{ title }}<span>{{ subtitle }}</span></h1>
       </div>
       <div class="photo-box">
         <div class="wrapper">
@@ -26,18 +26,13 @@
 const title = "Welcome to Photo";
 const subtitle = "NFT";
 
-// defineProps ({
-//   title: String,
-//   subtitle: String
-// });
-
 $(document).ready(() => {
   $('.center').slick({
     centerMode: true,
-    slidesToShow: 3,
+    slidesToShow: 5,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 5000,
+    autoplaySpeed: 4000,
   });
 });
 </script>
@@ -45,17 +40,14 @@ $(document).ready(() => {
 <style scoped>
 header {  
   height: 100%;
-  padding: auto;
   color: #fff;
 }
 .banner {
-  height: 50vh;
   background-color: rgba(0,0,0, 0.5);
   backdrop-filter: blur(10px);
   transform: translateY(40%);
   padding-top: 5vh;
   padding-bottom: 5vh;
-  overflow: hidden;
 }
 h1 {
   font-size: 5rem;
@@ -68,7 +60,7 @@ span {
   /* border: 1px solid #fff; */
   height: 25vh;
   overflow: hidden;
-  margin: 30px 10px;
+  margin: 2vh 0;
 }
 .wrapper {
   width: 100%;
