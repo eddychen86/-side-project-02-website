@@ -1,6 +1,6 @@
 <template>
-  <header>
-    <div class="banner">
+  <header class="d-flex align-items-center w-100">
+    <div class="banner w-100">
       <div class="container">
         <h1 class="mb-5 text-center">{{ title }}</h1>
         <div class="row">
@@ -25,7 +25,6 @@ header {
 .banner {
   background-color: rgba(0,0,0, 0.5);
   backdrop-filter: blur(10px);
-  transform: translateY(40%);
   padding-top: 5vh;
   padding-bottom: 5vh;
 }

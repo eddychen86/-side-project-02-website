@@ -1,6 +1,6 @@
 <template>
-  <header>
-    <div class="banner">
+  <header class="d-flex align-items-center">
+    <div class="banner w-100">
       <div class="container">
         <h1 class="text-center">{{ title }}<span>{{ subtitle }}</span></h1>
       </div>
@@ -29,7 +29,7 @@ const subtitle = "NFT";
 $(document).ready(() => {
   $('.center').slick({
     centerMode: true,
-    slidesToShow: 5,
+    slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 4000,
@@ -45,7 +45,6 @@ header {
 .banner {
   background-color: rgba(0,0,0, 0.5);
   backdrop-filter: blur(10px);
-  transform: translateY(40%);
   padding-top: 5vh;
   padding-bottom: 5vh;
 }
@@ -57,8 +56,6 @@ span {
 }
 
 .photo-box {
-  /* border: 1px solid #fff; */
-  height: 25vh;
   overflow: hidden;
   margin: 2vh 0;
 }

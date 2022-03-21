@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="banner">
+    <div class="banner mb-5">
       <div class="container">
         <h1 class="text-center">{{ title }}</h1>
         <hr class="my-5">
@@ -11,7 +11,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, suscipit.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -21,7 +21,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, aut.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -31,7 +31,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, rem!</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -41,7 +41,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, provident?</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, provident?</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, suscipit.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, aut.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, rem!</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, provident?</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -101,7 +101,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, provident?</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -111,7 +111,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, suscipit.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -121,7 +121,7 @@
               <div class="card-body">
                 <h5 class="card-title">{{ product }}</h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, aut.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">{{ more }}</a>
               </div>
             </div>
           </div>
@@ -133,7 +133,8 @@
 
 <script setup>
 const title = "產品介紹";
-const product = "產品";
+const product = "PhotoNFT";
+const more = "Read More"
 </script>
 
 <style scoped>
