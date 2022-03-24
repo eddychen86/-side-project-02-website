@@ -85,9 +85,6 @@
   </footer>
 </template>
 
-<script setup>
-</script>
-
 <style>
 * {
   box-sizing: border-box;
