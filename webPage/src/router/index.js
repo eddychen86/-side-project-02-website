@@ -10,11 +10,11 @@ const routes = [
 
   { path: "/product/info", name: "info", component: () => import("../components/product/info.vue") },
   { path: "/product/download", name: "download", component: () => import("../components/product/download.vue") },
-  { path: "/product/result", name: "result", component: () => import("../components/product/result.vue") },
+  { path: "/product/productresult", name: "productresult", component: () => import("../components/product/productresult.vue") },
 
   { path: "/pay/buy", name: "buy", component: () => import("../components/pay/buy.vue") },
   { path: "/pay/pay", name: "pay", component: () => import("../components/pay/pay.vue") },
-  { path: "/pay/result", name: "result", component: () => import("../components/pay/result.vue") },
+  { path: "/pay/payresult", name: "payresult", component: () => import("../components/pay/payresult.vue") },
 
   { path: "/services", name: "services", component: () => import("../components/services.vue") }
 ];

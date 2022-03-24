@@ -24,7 +24,7 @@
               <li><router-link to="/product/info" class="dropdown-item">產品介紹</router-link></li>
               <li><router-link to="/product/download" class="dropdown-item">產品下載</router-link></li>
               <li><hr class="dropdown-divider"></li>
-              <li><router-link to="/product/result" class="dropdown-item">結果</router-link></li>
+              <li><router-link to="/product/productresult" class="dropdown-item">結果</router-link></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
@@ -33,7 +33,7 @@
               <li><router-link to="/pay/buy" class="dropdown-item">購買產品</router-link></li>
               <li><router-link to="/pay/pay" class="dropdown-item">付款頁面</router-link></li>
               <li><hr class="dropdown-divider"></li>
-              <li><router-link to="/pay/result" class="dropdown-item">結果</router-link></li>
+              <li><router-link to="/pay/payresult" class="dropdown-item">結果</router-link></li>
             </ul>
           </li>
           <li class="nav-item">
@@ -65,14 +65,14 @@
           <hr>
           <p class="mb-2"><router-link to="/product/info">產品介紹</router-link></p>
           <p class="mb-2"><router-link to="/product/download">產品下載</router-link></p>
-          <p class="mb-2"><router-link to="/product/result">結果</router-link></p>
+          <p class="mb-2"><router-link to="/product/productresult">結果</router-link></p>
         </div>
         <div class="col-lg-2 col-sm-3 px-3 py-2">
           <h4>付款</h4>
           <hr>
           <p class="mb-2"><router-link to="/pay/buy">購買產品</router-link></p>
           <p class="mb-2"><router-link to="/pay/pay">付款頁面</router-link></p>
-          <p class="mb-2"><router-link to="/pay/result">結果</router-link></p>
+          <p class="mb-2"><router-link to="/pay/payresult">結果</router-link></p>
         </div>
         <div class="col-lg-4 col-md-12 px-3 py-2">
           <h4>留言區</h4>
