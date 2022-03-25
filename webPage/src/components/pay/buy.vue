@@ -40,7 +40,6 @@
               </div>
             </div>
           </div>
-          
         </div>
       </div>
     </div>
@@ -49,8 +48,8 @@
 
 <script setup>
 const title = "產品下載";
-const product = "PhotoNFT";
 const dl = "Premium";
+
 </script>
 
 <style scoped>

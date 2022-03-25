@@ -4,7 +4,7 @@
     <button class="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg" aria-controls="navbarOffcanvasLg">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="offcanvas offcanvas-end w-50 h-50" tabindex="-1" id="navbarOffcanvasLg" aria-labelledby="navbarOffcanvasLgLabel">
+    <div class="offcanvas offcanvas-end w-75" tabindex="-1" id="navbarOffcanvasLg" aria-labelledby="navbarOffcanvasLgLabel">
       <div class="offcanvas-header">
         <button type="button" class="btn-close btn-close-white text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
@@ -84,7 +84,7 @@
 html, body {
   padding: 0;
   margin: 0;
-  background: rgb(32, 32, 32);
+  background: rgb(40, 41, 46);
   min-width: 576px;
 }
 a {
@@ -135,9 +135,13 @@ nav {
       }
     }
   }
+  .offcanvas {
+    height: 5%;
+  }
   @media screen and (max-width: 992px) {
     .offcanvas {
       width: 30% !important;
+      height: 50%;
       background: linear-gradient(to bottom, rgba(40, 41, 46, 1), rgba(40, 41, 46, 0));
     }
   }
