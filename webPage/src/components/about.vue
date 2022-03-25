@@ -16,26 +16,26 @@
 const title = "公司介紹";
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 header {
   height: 100%;
   padding: auto;
   color: #fff;
-}
-.banner {
-  background-color: rgba(0,0,0, 0.5);
-  backdrop-filter: blur(10px);
-  padding-top: 5vh;
-  padding-bottom: 5vh;
-}
-h1 {
-  font-size: 4rem;
-  font-weight: 900;
-}
-.img {
-  background-image: url('https://picsum.photos/id/221/450/800?grayscale');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 70%;
+  .banner {
+    background-color: rgba(0,0,0, 0.5);
+    backdrop-filter: blur(10px);
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    h1 {
+      font-size: 4rem;
+      font-weight: 900;
+    }
+    .img {
+      background-image: url('https://picsum.photos/id/221/450/800?grayscale');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 70%;
+    }
+  }
 }
 </style>

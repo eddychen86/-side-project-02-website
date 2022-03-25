@@ -8,143 +8,39 @@
           <div class="p-3 col-3">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
+                <button class="btn btn-warning px-3">{{ dl }}</button>
               </div>
             </div>
           </div>
           <div class="p-3 col-3">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
+                <button class="btn btn-warning px-3">{{ dl }}</button>
               </div>
             </div>
           </div>
           <div class="p-3 col-3">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
+                <button class="btn btn-warning px-3">{{ dl }}</button>
               </div>
             </div>
           </div>
           <div class="p-3 col-3">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
+                <button class="btn btn-warning px-3">{{ dl }}</button>
               </div>
             </div>
           </div>
           <div class="p-3 col-3">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
+                <button class="btn btn-warning px-3">{{ dl }}</button>
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
-            <div class="img1 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img2 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img3 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img4 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img5 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img1 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img2 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img3 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img4 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img5 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img1 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img2 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img3 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img4 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 col-3">
-            <div class="img5 position-relative overflow-hidden p-0 rounded-3">
-              <div class="mask w-100 position-absolute text-center">
-                <button class="btn btn-warning px-3">Premium</button>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>
@@ -154,7 +50,7 @@
 <script setup>
 const title = "產品下載";
 const product = "PhotoNFT";
-const dl = "Download";
+const dl = "Premium";
 </script>
 
 <style scoped>
@@ -193,35 +89,35 @@ h1 {
 }
 
 .img1 {
-  background-image: url("../../assets/index-01.jpg");
+  background-image: url("../../../public/index-01.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   height: 15vh;
 }
 .img2 {
-  background-image: url("../../assets/index-02.jpg");
+  background-image: url("../../../public/index-02.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   height: 15vh;
 }
 .img3 {
-  background-image: url("../../assets/index-03.jpg");
+  background-image: url("../../../public/index-03.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   height: 15vh;
 }
 .img4 {
-  background-image: url("../../assets/index-04.jpg");
+  background-image: url("../../../public/index-04.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   height: 15vh;
 }
 .img5 {
-  background-image: url("../../assets/index-05.jpg");
+  background-image: url("../../../public/index-05.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
