@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="banner">
-      <div class="container pb-5">
+      <div class="container p-5">
         <h1 class="text-center">{{ title }}</h1>
         <hr class="my-5">
         <div class="row">
