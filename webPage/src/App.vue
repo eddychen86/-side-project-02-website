@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg fixed-top px-5 navbar-dark">
-    <router-link to="/" class="navbar-brand">Photo<span>NFT</span></router-link>
+    <router-link to="/SP02--website" class="navbar-brand">Photo<span>NFT</span></router-link>
     <button class="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg" aria-controls="navbarOffcanvasLg">
       <span class="navbar-toggler-icon"></span>
     </button>

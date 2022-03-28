@@ -2,6 +2,8 @@
 
 利用 vue 練習做出一個網頁
 
+<a href="https://eddychen86.github.io/SP02--website/"><b>Link</b></a>
+
 ## Update
 - 2022 / 03 / 19
   - create a new project
@@ -11,3 +13,5 @@
   - setting product page
 - 2022 / 03 / 27
   - setting product page, pay page
+  - add deploy.sh
+    - Ｍust run "chmod u+x *.sh" in the terminal to open the ".sh" permission to run the ".sh" file.
