@@ -12,7 +12,11 @@ const routes = [
   { path: "/product/download", name: "download", component: () => import("../components/product/download.vue") },
 
   { path: "/pay/buy", name: "buy", component: () => import("../components/pay/buy.vue") },
-  { path: "/pay/pay", name: "pay", component: () => import("../components/pay/pay.vue") },
+  { path: "/pay/pay1", name: "pay1", component: () => import("../components/pay/pay1.vue") },
+  { path: "/pay/pay2", name: "pay2", component: () => import("../components/pay/pay2.vue") },
+  { path: "/pay/pay3", name: "pay3", component: () => import("../components/pay/pay3.vue") },
+  { path: "/pay/pay4", name: "pay4", component: () => import("../components/pay/pay4.vue") },
+  { path: "/pay/pay5", name: "pay5", component: () => import("../components/pay/pay5.vue") },
 
   { path: "/services", name: "services", component: () => import("../components/services.vue") }
 ];

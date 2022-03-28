@@ -9,3 +9,5 @@
   - setting home page, about page, declare page
 - 2022 / 03 / 21 ~ 2022 / 03 / 27
   - setting product page
+- 2022 / 03 / 27
+  - setting product page, pay page
