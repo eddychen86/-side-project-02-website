@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg fixed-top px-5 navbar-dark">
-    <router-link to="/SP02--website" class="navbar-brand">Photo<span>NFT</span></router-link>
+    <router-link to="/" class="navbar-brand">Photo<span>NFT</span></router-link>
     <button class="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg" aria-controls="navbarOffcanvasLg">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -45,26 +45,26 @@
   <footer>
     <div class="container">
       <div class="row justify-content-center m-0">
-        <div class="col-sm-2 px-3 py-2">
+        <div class="col-md-3 col-sm-12 px-3 py-2">
           <h4>&emsp;</h4>
           <hr>
           <p class="mb-2"><router-link class="footer-item" to="/about">公司介紹</router-link></p>
           <p class="mb-2"><router-link class="footer-item" to="/services">客服</router-link></p>
         </div>
-        <div class="col-sm-2 px-3 py-2">
+        <div class="col-md-3 col-sm-12 px-3 py-2">
           <h4>服務宣告</h4>
           <hr>
           <p class="mb-2"><router-link class="footer-item" to="/declare/terms">服務條款</router-link></p>
           <p class="mb-2"><router-link class="footer-item" to="/declare/privacy">隱私政策</router-link></p>
           <p class="mb-2"><router-link class="footer-item" to="/declare/Copyright">著作權 / 智慧財產權</router-link></p>
         </div>
-        <div class="col-sm-2 px-3 py-2">
+        <div class="col-md-3 col-sm-12 px-3 py-2">
           <h4>產品</h4>
           <hr>
           <p class="mb-2"><router-link class="footer-item" to="/product/info">產品介紹</router-link></p>
           <p class="mb-2"><router-link class="footer-item" to="/product/download">產品下載</router-link></p>
         </div>
-        <div class="col-sm-2 px-3 py-2">
+        <div class="col-md-3 col-sm-12 px-3 py-2">
           <h4>付款</h4>
           <hr>
           <p class="mb-2"><router-link class="footer-item" to="/pay/buy">購買產品</router-link></p>
