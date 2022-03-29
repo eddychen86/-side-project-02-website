@@ -121,7 +121,7 @@ nav {
   }
   .dropdown {
     &-menu {
-      background: rgba(0, 0, 0, 0.5) !important;
+      background: rgba(0, 0, 0, 1) !important;
       top: 130% !important;
     }
     &-item {
