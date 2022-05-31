@@ -41,8 +41,10 @@
       </div>
     </div>
   </nav>
-  <router-view/>
-  <footer>
+
+  <router-view class="vh-100"/>
+
+  <footer class="mt-4">
     <div class="container">
       <div class="row justify-content-center m-0">
         <div class="col-md-3 col-sm-12 px-3 py-2">
@@ -157,7 +159,6 @@ nav {
 footer {
   color: #fff;
   height: auto;
-  margin-top: -3vh;
   width: 100%;
   background: rgb(40, 41, 46);
   .footer-item {
