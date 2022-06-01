@@ -4,8 +4,7 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  // base: '/SP02--website/'
-  server: {
-    port: 8080
-  }
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/SideProject-2--website/'
+    : '/'
 })
