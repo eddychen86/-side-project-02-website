@@ -8,7 +8,7 @@
           <div class="p-3 col-3">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-01-mark.jpg" download="index-01-mark">
+                <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -17,7 +17,7 @@
           <div class="p-3 col-3">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-02-mark.jpg" download="index-02-mark">
+                <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -26,7 +26,7 @@
           <div class="p-3 col-3">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-03-mark.jpg" download="index-03-mark">
+                <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -35,7 +35,7 @@
           <div class="p-3 col-3">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-04-mark.jpg" download="index-04-mark">
+                <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -44,7 +44,7 @@
           <div class="p-3 col-3">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-05-mark.jpg" download="index-05-mark">
+                <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -53,7 +53,7 @@
           <div class="p-3 col-3">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-01-mark.jpg" download="index-01-mark">
+                <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -62,7 +62,7 @@
           <div class="p-3 col-3">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-02-mark.jpg" download="index-02-mark">
+                <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -71,7 +71,7 @@
           <div class="p-3 col-3">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-03-mark.jpg" download="index-03-mark">
+                <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -80,7 +80,7 @@
           <div class="p-3 col-3">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-04-mark.jpg" download="index-04-mark">
+                <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -89,7 +89,7 @@
           <div class="p-3 col-3">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-05-mark.jpg" download="index-05-mark">
+                <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -98,7 +98,7 @@
           <div class="p-3 col-3">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-01-mark.jpg" download="index-01-mark">
+                <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -107,7 +107,7 @@
           <div class="p-3 col-3">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-02-mark.jpg" download="index-02-mark">
+                <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -116,7 +116,7 @@
           <div class="p-3 col-3">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-03-mark.jpg" download="index-03-mark">
+                <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -125,7 +125,7 @@
           <div class="p-3 col-3">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-04-mark.jpg" download="index-04-mark">
+                <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -134,7 +134,7 @@
           <div class="p-3 col-3">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-05-mark.jpg" download="index-05-mark">
+                <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -143,7 +143,7 @@
           <div class="p-3 col-3">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-01-mark.jpg" download="index-01-mark">
+                <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -152,7 +152,7 @@
           <div class="p-3 col-3">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-02-mark.jpg" download="index-02-mark">
+                <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -161,7 +161,7 @@
           <div class="p-3 col-3">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-03-mark.jpg" download="index-03-mark">
+                <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -170,7 +170,7 @@
           <div class="p-3 col-3">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-04-mark.jpg" download="index-04-mark">
+                <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
@@ -179,7 +179,7 @@
           <div class="p-3 col-3">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
-                <a href="../public/mark/index-05-mark.jpg" download="index-05-mark">
+                <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
                   <button class="btn btn-primary px-3">Free</button>
                 </a>
               </div>
