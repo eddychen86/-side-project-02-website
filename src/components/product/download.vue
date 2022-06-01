@@ -217,19 +217,19 @@ header {
       height: 20vh;
     }
     .img1 {
-      background-image: url("../public/mark/index-01-mark.jpg");
+      background-image: url("../../../public/mark/index-01-mark.jpg");
     }
     .img2 {
-      background-image: url("../public/mark/index-02-mark.jpg");
+      background-image: url("../../../public/mark/index-02-mark.jpg");
     }
     .img3 {
-      background-image: url("../public/mark/index-03-mark.jpg");
+      background-image: url("../../../public/mark/index-03-mark.jpg");
     }
     .img4 {
-      background-image: url("../public/mark/index-04-mark.jpg");
+      background-image: url("../../../public/mark/index-04-mark.jpg");
     }
     .img5 {
-      background-image: url("../public/mark/index-05-mark.jpg");
+      background-image: url("../../../public/mark/index-05-mark.jpg");
     }
     .mask {
       background: rgba(0 ,0 ,0 , 0);
