@@ -5,7 +5,7 @@
         <h1 class="text-center">{{ title }}</h1>
         <hr class="my-5">
         <div class="row">
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
@@ -14,7 +14,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
@@ -23,7 +23,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
@@ -32,7 +32,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
@@ -41,7 +41,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
@@ -50,7 +50,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
@@ -59,7 +59,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
@@ -68,7 +68,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
@@ -77,7 +77,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
@@ -86,7 +86,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
@@ -95,7 +95,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
@@ -104,7 +104,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
@@ -113,7 +113,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
@@ -122,7 +122,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
@@ -131,7 +131,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
@@ -140,7 +140,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img1 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-01-mark.jpg" download="index-01-mark">
@@ -149,7 +149,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img2 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-02-mark.jpg" download="index-02-mark">
@@ -158,7 +158,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img3 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-03-mark.jpg" download="index-03-mark">
@@ -167,7 +167,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img4 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-04-mark.jpg" download="index-04-mark">
@@ -176,7 +176,7 @@
               </div>
             </div>
           </div>
-          <div class="p-3 col-3">
+          <div class="p-3 col-lg-3 col-md-4 col-sm-12">
             <div class="img5 position-relative overflow-hidden p-0 rounded-3">
               <div class="mask w-100 position-absolute text-center">
                 <a href="../../../public/mark/index-05-mark.jpg" download="index-05-mark">
@@ -215,6 +215,10 @@ header {
       background-size: cover;
       background-position: center;
       height: 20vh;
+
+      @media screen and (max-width: 768px) {
+        height: 30vh;
+      }
     }
     .img1 {
       background-image: url("../../../public/mark/index-01-mark.jpg");
